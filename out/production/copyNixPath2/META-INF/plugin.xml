@@ -1,5 +1,5 @@
 <idea-plugin version="2">
-    <id>com.michael.bergens.java.playground</id>
+    <id>com.michael.bergens.java.playground2</id>
     <name>copyNixPath2 Copy current file&apos;s file path or dir path with Unix file separators</name>
     <version>1.0.5</version>
     <vendor email="michael bergens (AT) GMail" url="https://github.com/bluelovers/idea-copyNixPath">Michael Bergens</vendor>
