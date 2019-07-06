@@ -1,8 +1,8 @@
 <idea-plugin version="2">
     <id>com.michael.bergens.java.playground</id>
-    <name>Copy current file&apos;s file path or dir path with Unix file separators</name>
+    <name>copyNixPath2 Copy current file&apos;s file path or dir path with Unix file separators</name>
     <version>1.0.5</version>
-    <vendor email="michael bergens (AT) GMail" url="https://github.com/mub/brainYard/tree/master/jetBrains/idea/plugins/copyNixPath">Michael Bergens</vendor>
+    <vendor email="michael bergens (AT) GMail" url="https://github.com/bluelovers/idea-copyNixPath">Michael Bergens</vendor>
 
     <description><![CDATA[
     <p>
@@ -46,13 +46,12 @@
     </change-notes>
 
     <!-- please see http://confluence.jetbrains.com/display/IDEADEV/Build+Number+Ranges for description -->
-    <idea-version since-build="131"/>
+    <idea-version since-build="172"/>
 
     <!-- please see http://confluence.jetbrains.com/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
          on how to target different products -->
-    <!-- uncomment to enable plugin in all products
+    <!-- uncomment to enable plugin in all products-->
     <depends>com.intellij.modules.lang</depends>
-    -->
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- no extension in this plugin -->

@@ -17,7 +17,7 @@ import javax.swing.*;
 /**
  * @author mubergens Michael Bergens
  */
-@State(name = SettingsComponent.COMPONENT_NAME, storages = {@Storage(id = "other", file = "$PROJECT_FILE$")})
+@State(name = SettingsComponent.COMPONENT_NAME, storages = {@Storage("$PROJECT_FILE$")})
 public class SettingsComponent  implements ProjectComponent, Configurable, PersistentStateComponent<Settings> {
     public static final String COMPONENT_NAME = "Michael.U.Bergens.CopyNixDirPlugin";
     public static final String GRP_DISPLAY_ID_ERR = "Copy *nix Paths plugin ERROR";
