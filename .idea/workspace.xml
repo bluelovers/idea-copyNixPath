@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184e445a-1566-40f6-845b-109a8d8bba21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/copyNixPath2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/copyNixPath2_jar/copyNixPath2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/CopyNixDirPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/CopyNixFilePath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/Notifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/Settings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/SettingsComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/SettingsForm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/copyNixPath2/org/momuniverse42/idea/copyNixPath/SettingsForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/copyNixPath2/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/copyNixPath.iml" beforeDir="false" afterPath="$PROJECT_DIR$/copyNixPath2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/momuniverse42/idea/copyNixPath/SettingsComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/momuniverse42/idea/copyNixPath/SettingsComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/copyNixPath2_jar/copyNixPath2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/copyNixPath2_jar/copyNixPath2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/copyNixPath2/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/copyNixPath2/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +28,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/META-INF" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24299066" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -99,6 +78,21 @@
       <option name="presentableId" value="Default" />
       <updated>1562397143369</updated>
     </task>
+    <task id="LOCAL-00001" summary="enable plugin in all products">
+      <created>1562397859432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562397859432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rename id">
+      <created>1562398090770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562398090770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,10 +103,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enable plugin in all products" />
+    <MESSAGE value="rename id" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename id" />
   </component>
 </project>
